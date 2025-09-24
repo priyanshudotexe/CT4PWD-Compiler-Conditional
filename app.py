@@ -3,7 +3,6 @@ import cv2
 import pytesseract
 import os
 from werkzeug.utils import secure_filename
-import color_extractor
 import lex
 import parse
 import eval
