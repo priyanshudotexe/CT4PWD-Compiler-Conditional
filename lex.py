@@ -6,8 +6,8 @@ from pyzbar.pyzbar import decode
 
 # --- Constants (extend these as needed) ---
 CONTROL_SET = {"if", "else", "elseif"}
-CONDITION_SET = {"raining", "sunny", "snowing"}   # <-- add any condition words you use
-ACTION_SET = {"umbrella", "sunglasses", "coat"}   # <-- add any action words you use
+CONDITION_SET = {"raining", "sunny", "snowing", "green", "red"}   # <-- add any condition words you use
+ACTION_SET = {"umbrella", "sunglasses", "coat", "go", "stop"}   # <-- add any action words you use
 COLOR_WORDS = {
     "red", "blue", "green", "yellow", "orange", "purple", "pink",
     "brown", "black", "white", "cyan", "magenta", "grey", "gray"
