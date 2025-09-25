@@ -2,6 +2,8 @@ VALID_LOGIC = {
     "raining": "umbrella",
     "sunny": "sunglasses",
     "snowing": "coat",
+    "green": "go",
+    "red": "stop",
     # add more valid mappings here
 }
 
